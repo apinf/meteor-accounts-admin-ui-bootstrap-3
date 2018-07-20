@@ -14,7 +14,7 @@ Package.onUse(function (api) {
 		'accounts-password@1.3.0',
 		'kurounin:pagination-blaze@1.0.2',
 		'session',
-		'twbs:bootstrap@3.3.6',
+		'apinf:bootstrap',
 		'underscore'
 	]);
 
