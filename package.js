@@ -14,7 +14,7 @@ Package.onUse(function (api) {
 		'accounts-password@1.3.0',
 		'kurounin:pagination-blaze@1.0.2',
 		'session',
-		'vinaytech:bootstrap',
+		'apinf:bootstrap',
 		'underscore'
 	]);
 
